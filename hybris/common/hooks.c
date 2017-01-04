@@ -1647,7 +1647,6 @@ static struct _hook hooks[] = {
     {"rindex",rindex},
     {"strcasecmp",strcasecmp},
     {"__sprintf_chk", __sprintf_chk},
-    {"__snprintf_chk", __snprintf_chk},
     {"strncasecmp",strncasecmp},
     /* pthread.h */
     {"getauxval", getauxval},
